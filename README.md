@@ -11,4 +11,6 @@ Pattern matching results
 ![image](https://github.com/user-attachments/assets/e3aa6987-d07b-496b-8691-f72fb891c06e)  
 
 
-These demographics are largely what I expected, though the average age is slightly older than I anticipated. 
+These demographics are largely what I expected, though the average age is slightly older than I anticipated. All other demographics largely align with the demographics that were calculated as a part of milestone one using the built in software provided by ATLAS in the table shown below.  
+![image](https://github.com/user-attachments/assets/e5dbf1ee-6bec-47f5-ad6b-2ad20b64181f)
+
