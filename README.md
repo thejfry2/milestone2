@@ -7,8 +7,8 @@ https://ucsfonline.sharepoint.com/sites/InformationCommons/rae_ic/SitePages/Micr
 Pattern matching results  
 	When pattern matching was applied to the clinical notes to discovere references to naloxone, references were discovered in only about 60% of notes pulled with little or no variation in demographic information between the population where references occurred vs did not. This is in contrast to the over 95% rate of concept occurrence that was calculated by ATLAS during cohort generation. The 95% rate is most likely the more accurate number as Naloxone is the most effective treatment for opioids and has no contraindications, meaning  that it is used in almost all cases. The lower rate of naloxone discovered by pattern matching is likely due to a lack of documentation of this treatment in the clinical notes, and not alayzing enough notes from each patient. Due to computational constraints, only patient progress, ER history, and ER general notes were analyzed. 
 	These note categories should, and to a certain extent do, cover the majority of references to narcan usage as opioid overdose is an acute condition and narcan is fast acting, meaning that if narcan was using it would be when or before patients arrived at the emergency room. The following is comparison of demographic information of patients whose notes included a reference to Naloxone vs those who did not as determined by pattern matching  
- 
-![image](https://github.com/user-attachments/assets/e3aa6987-d07b-496b-8691-f72fb891c06e)  
+ ![image](https://github.com/user-attachments/assets/912cb0ad-3aa9-4659-a91c-54a807612b23)
+
 
 
 These demographics are largely what I expected, though the average age is slightly older than I anticipated. All other demographics largely align with the demographics that were calculated as a part of milestone one using the built in software provided by ATLAS in the table shown below.  
