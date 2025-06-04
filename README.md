@@ -12,5 +12,6 @@ Pattern matching results
 
 
 These demographics are largely what I expected, though the average age is slightly older than I anticipated. All other demographics largely align with the demographics that were calculated as a part of milestone one using the built in software provided by ATLAS in the table shown below.  
-![image](https://github.com/user-attachments/assets/e5dbf1ee-6bec-47f5-ad6b-2ad20b64181f)
+![image](https://github.com/user-attachments/assets/e5dbf1ee-6bec-47f5-ad6b-2ad20b64181f)  
 
+To reproduce my analysis, first obtain my the SQL code generated for my ATLAS cohort called “opioid overdose treated with naloxone” and pull the demographics as well as the clinical notes from UCSF DEID see (https://git.ucsf.edu/jackson-sands/206-assignment3) for general guidelines on this. You may then use the macros I have created in note_text_final.xlsx, replacing the original data with your own, though the column and their relative positions will need to stay the same for this to work.
